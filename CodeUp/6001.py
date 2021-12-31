@@ -1,2 +1,2 @@
-#[220101:print1]  first commit
+#[220101:print1] first commit
 print('Hello')

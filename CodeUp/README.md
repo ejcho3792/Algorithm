@@ -12,3 +12,10 @@
 ### int(num, 16) : num을 16진수로 변환   
 ### print( '%o' % int(num) ) : num에 대한 8진수 출력   
 
+# 3. bit shift
+### print( num << 1 ) : num의 2배 수 출력
+### print( num << 2 ) : num의 4배 수 출력
+### print( num >>1 ) : num의 1/2배 수 출력
+### print( num >> 2 ) : num의 1/4배 수 출력
+
+

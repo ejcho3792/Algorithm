@@ -15,7 +15,13 @@
 # 3. bit shift
 ### print( num << 1 ) : num의 2배 수 출력
 ### print( num << 2 ) : num의 4배 수 출력
-### print( num >>1 ) : num의 1/2배 수 출력
+### print( num >> 1 ) : num의 1/2배 수 출력
 ### print( num >> 2 ) : num의 1/4배 수 출력
+
+# 4. Comparison 비교연산자 
+### print( 10 < 20 ) : True 출력
+### print( 10 > 20 ) : False 출력
+### print( 10 != 20 ) : True 출력
+
 
 

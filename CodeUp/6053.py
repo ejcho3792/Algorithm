@@ -1,2 +1,2 @@
-#[220101:logical 02] first commit
+#[220102:logical 02] first commit
 print(not bool(int(input())))

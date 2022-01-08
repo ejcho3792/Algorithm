@@ -17,24 +17,12 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### * 코딩테스트 with Python   
+###### [Chapter 03. Greedy](https://github.com/ejcho3792/Algorithm/tree/master/coding_test_with_python#chapter-03-greedy)
 
 
 
 ### * backjoon   
 
-### * 코딩테스트 with Python   
+
 

@@ -1,8 +1,8 @@
 # coding test with python
 ---
 ## INDEX
-[Chapter 03. Greedy](#chapter-03-greedy)
-[Chapter 04. Implementation](#chapter-04-implementation)
+[Chapter 03. Greedy](#chapter-03-greedy)   
+[Chapter 04. Implementation](#chapter-04-implementation)   
 []
 []
 []

@@ -1,12 +1,8 @@
-# n*m크기의 얼음틀에 구멍이 뚫려 있는 부분끼리 상하좌우로 붙어있는 경우 연결되어 있는 것으로 간주
-# 주어진 얼음틀에 생성되는 총 아이스크림의 개수를 구하기
-# input 1 : n*m
-# input 2 : 얼음틀의 형태( 구멍 : 0, 막힌부분 : 1)
-
 n,m=map(int,input().split())
 graph=[]
 for i in range(n):
     graph.append(list(map(int,input())))
+    print(len(graph))
 
 def dfs(x,y):
     if x<=-1 or x>=n or y<=-1 or y>=m:

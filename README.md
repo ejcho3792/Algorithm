@@ -18,10 +18,9 @@
 
 
 ### * [코딩테스트 with Python](https://github.com/ejcho3792/Algorithm/tree/master/coding_test_with_python#coding-test-with-python)   
-###### [Chapter 03. Greedy](https://github.com/ejcho3792/Algorithm/tree/master/coding_test_with_python#chapter-03-greedy)
-###### [Chapter 04. Implementation](https://github.com/ejcho3792/Algorithm/tree/master/coding_test_with_python#chapter-04-implementation)
-
-
+###### [Chapter 03. Greedy](https://github.com/ejcho3792/Algorithm/tree/master/coding_test_with_python#chapter-03-greedy)   
+###### [Chapter 04. Implementation](https://github.com/ejcho3792/Algorithm/tree/master/coding_test_with_python#chapter-04-implementation)   
+###### [Chapter 05. DFS/BFS](https://github.com/ejcho3792/Algorithm/tree/master/coding_test_with_python#chapter-05-dfsbfs)   
 ### * backjoon   
 
 

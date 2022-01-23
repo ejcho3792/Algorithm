@@ -9,13 +9,15 @@
 ###### [04. 바이너리 인덱스 트리](https://github.com/ejcho3792/Algorithm/blob/master/algorithm_basic/AB04_binary_indexed_tree.ipynb)   
 ###### [05. 선택 정렬과 삽입정렬](https://github.com/ejcho3792/Algorithm/blob/master/algorithm_basic/AB05_sorting.ipynb)   
 ###### [06. 퀵 정렬과 계수 정렬](https://github.com/ejcho3792/Algorithm/blob/master/algorithm_basic/AB06_sorting2.ipynb)   
-###### [07. 정렬 알고리즘 비교, 연습문제](https://github.com/ejcho3792/Algorithm/blob/master/algorithm_basic/AB07_sorting_exe.ipynb)   
 ###### [08. DFS, BFS](https://github.com/ejcho3792/Algorithm/blob/master/algorithm_basic/AB08_dfs_bfs.ipynb)   
 ###### [09. DFS, BFS 연습문제](https://github.com/ejcho3792/Algorithm/blob/master/algorithm_basic/AB09_dfs_bfs_exe.ipynb)   
+###### [10. 다익스트라 알고리즘](https://github.com/ejcho3792/Algorithm/blob/master/algorithm_basic/AB10_dijkstra.ipynb)   
 
 
 
-###### [10. 다익스트라 알고리즘](https://github.com/ejcho3792/Algorithm/blob/master/algorithm_basic/AB02_stack_que.ipynb)   
+
+
+
 
 
 

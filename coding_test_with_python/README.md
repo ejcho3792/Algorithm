@@ -4,7 +4,7 @@
 [Chapter 03. Greedy](#chapter-03-greedy)   
 [Chapter 04. Implementation](#chapter-04-implementation)   
 [Chapter 05. DFS/BFS](#chapter-05-dfsbfs)   
-[]()   
+[Chapter 06. Sorting](#chapter-06-sorting)   
 []()   
 []()   
 
@@ -39,3 +39,15 @@ n*m 크기로 구성된 맵이며, 각각의 칸은 육지(0) 또는 바다(1)�
 n*m크기의 얼음틀에 구멍이 뚫려 있는 부분끼리 상하좌우로 붙어있는 경우 연결되어 있는 것으로 간주한다. 주어진 얼음틀에 생성되는 총 아이스크림의 개수를 구하기   
 [ex04) Maze](https://github.com/ejcho3792/Algorithm/blob/master/coding_test_with_python/CH0504_maze.py)   
 n*m 미로에서 내 위치는 1,1이고, 출구는 n*m이다. 지나갈 수 있는 칸은 1로 표시되어 있을 때 탈출을 위해 움직여야 하는 최소 칸의 개수를 구하기   
+
+#### Chapter 06. Sorting   
+[ex01) 정렬 알고리즘](https://github.com/ejcho3792/Algorithm/blob/master/coding_test_with_python/CH0601_sort.py)   
+[ex02) 수열 내림차순 정렬](https://github.com/ejcho3792/Algorithm/blob/master/coding_test_with_python/CH0602_ascending.py)   
+입력될 수의 갯수 n개가 주어지고, n개의 수열이 차례로 입력될 때 내림차순으로 정렬하여 정렬된 결과를 공백으로 구분하여 출력하기   
+[ex03) 성적순으로 학생 출력](https://github.com/ejcho3792/Algorithm/blob/master/coding_test_with_python/CH0603_student_grade.py)   
+n명의 학생이 있고, 학생의 이름과 성적이 입력될 때 성적이 낮은 순서대로 학생의 이름을 출력하기   
+[ex04) 두 배열의 원소 교체](https://github.com/ejcho3792/Algorithm/blob/master/coding_test_with_python/CH0604_change_ele.py)   
+n개의 원소로 구성된 a, b 배열에서 각 배열에서 원소를 하나씩 선택하여 서로 최대 k번 바꿔치기를 수행할 한다. a의 모든 원소의 합이 최대가 되도록 하고 최대값을 출력하기   
+
+
+

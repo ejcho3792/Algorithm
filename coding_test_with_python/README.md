@@ -12,7 +12,6 @@
 
 ---
 #### Chapter 03. Greedy   
-##### * 그리디 알고리즘 : 현재 상황에서 지금 당장 좋은 것만 고르는 방법   
 [ex01) 거스름돈 출력](https://github.com/ejcho3792/Algorithm/blob/master/coding_test_with_python/CH0301_change.py)   
 잔돈 500원, 100원, 50원, 10원이 무한히 있다.   
 손님에게 거슬러 줘야 할 돈이 N원일때, 거슬러 줄 동전의 최소 개수 구하기   
@@ -62,7 +61,8 @@ n*m 미로에서 내 위치는 1,1이고, 출구는 n*m이다.
 [ex03) 성적순으로 학생 출력](https://github.com/ejcho3792/Algorithm/blob/master/coding_test_with_python/CH0603_student_grade.py)   
 n명의 학생이 있고, 학생의 이름과 성적이 입력될 때 성적이 낮은 순서대로 학생의 이름을 출력하기   
 [ex04) 두 배열의 원소 교체](https://github.com/ejcho3792/Algorithm/blob/master/coding_test_with_python/CH0604_change_ele.py)   
-n개의 원소로 구성된 a, b 배열에서 각 배열에서 원소를 하나씩 선택하여 서로 최대 k번 바꿔치기를 수행할 한다. a의 모든 원소의 합이 최대가 되도록 하고 최대값을 출력하기   
+n개의 원소로 구성된 a, b 배열에서 각 배열에서 원소를 하나씩 선택하여 서로 최대 k번 바꿔치기를 수행할 한다.   
+a의 모든 원소의 합이 최대가 되도록 하고 최대값을 출력하기   
 
 
 
